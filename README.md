@@ -1,2 +1,2 @@
 # ruby
-Most tings ruby
+Most things ruby
